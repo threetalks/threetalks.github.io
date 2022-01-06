@@ -29,8 +29,8 @@ publishDir= "docs"
 
 [languages]
   [languages.en]
-    title = "Hello Friend"
-    subtitle = "A simple theme for Hugo"
+    title = "Three Talks"
+    subtitle = "talk code, money, life"
     keywords = ""
     copyright = ""
     menuMore = "Show more"
