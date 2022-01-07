@@ -11,7 +11,7 @@ params:
 languages:
   en:
     title: Three Talks
-    copyright: '&copy; 2021 - {currentYear} Three Talks. All rights reserved.'
+    copyright: '&copy; 2021 - 2022  Three Talks. All rights reserved.'
     subtitle: 'Talk code, money, life'
     keywords: ['code','money','life']
     menuMore: Show more
@@ -40,7 +40,7 @@ languages:
     title: 三聊
     subtitle: '聊代码、搞钱、生活'
     keywords: ['编码','搞钱','生活']
-    copyright: '&copy; 2021 - {currentYear} Three Talks. All rights reserved.'
+    copyright: '&copy; 2021 - 2022  Three Talks. All rights reserved.'
     menuMore: 展示更多
     writtenBy: Written by
     readMore: 查看更多
