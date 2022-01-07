@@ -9,6 +9,7 @@
     <description>Recent content in Tags on Three Talks</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-US</language>
+    <copyright>&amp;copy; 2021 - {currentYear} Three Talks. All rights reserved.</copyright>
     
 	<atom:link href="https://threetalks.com/tags/index.xml" rel="self" type="application/rss+xml" />
     

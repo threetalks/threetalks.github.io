@@ -3,7 +3,6 @@ languageCode: en-US
 theme: hello-friend
 paginate: 5
 publishDir: docs
-copyright: "&copy; 2010 - {currentYear} Three Talks"
 params:
   contentTypeName: posts
   defaultTheme: dark
@@ -12,9 +11,9 @@ params:
 languages:
   en:
     title: Three Talks
+    copyright: '&copy; 2021 - {currentYear} Three Talks. All rights reserved.'
     subtitle: 'Talk code, money, life'
     keywords: ['code','money','life']
-    copyright: ''
     menuMore: Show more
     writtenBy: Written by
     readMore: Read more
@@ -41,7 +40,7 @@ languages:
     title: 三聊
     subtitle: '聊代码、搞钱、生活'
     keywords: ['编码','搞钱','生活']
-    copyright: ''
+    copyright: '&copy; 2021 - {currentYear} Three Talks. All rights reserved.'
     menuMore: 展示更多
     writtenBy: Written by
     readMore: 查看更多
