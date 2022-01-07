@@ -1,5 +1,5 @@
 baseurl: 'https://threetalks.com'
-languageCode: en-US
+languageCode: zh-CN
 theme: hello-friend
 paginate: 5
 publishDir: docs
@@ -37,9 +37,9 @@ languages:
           url: /showcase
 
   cn:
-    title: 三聊
-    subtitle: '聊代码、搞钱、生活'
-    keywords: ['编码','搞钱','生活']
+    title: Three Talks
+    subtitle: '聊代码、钞票、生活'
+    keywords: ['代码','钞票','生活']
     copyright: '&copy; 2021 - 2022  Three Talks. All rights reserved.'
     menuMore: 展示更多
     writtenBy: Written by
@@ -52,7 +52,7 @@ languages:
     dateFormatList: '2006-01-02'
     params:
       logo:
-        logoText: 三聊
+        logoText: Three Talks
         logoHomeLink: /
     menu:
       main:
