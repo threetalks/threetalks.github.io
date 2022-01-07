@@ -1,0 +1,65 @@
+baseurl: 'https://threetalks.com'
+languageCode: en-US
+theme: hello-friend
+paginate: 5
+publishDir: docs
+params:
+  contentTypeName: posts
+  defaultTheme: dark
+  showMenuItems: 2
+  showReadingTime: false
+languages:
+  en:
+    title: Three Talks
+    subtitle: 'Talk code, money, life'
+    keywords: ['code','money','life']
+    copyright: ''
+    menuMore: Show more
+    writtenBy: Written by
+    readMore: Read more
+    readOtherPosts: Read other posts
+    newerPosts: Newer posts
+    olderPosts: Older posts
+    minuteReadingTime: min read
+    dateFormatSingle: '2006-01-02'
+    dateFormatList: '2006-01-02'
+    params:
+      logo:
+        logoText: Three Talks
+        logoHomeLink: /
+    menu:
+      main:
+        - identifier: about
+          name: About
+          url: /about
+        - identifier: showcase
+          name: Showcase
+          url: /showcase
+
+  cn:
+    title: 三聊
+    subtitle: '聊代码、搞钱、生活'
+    keywords: ['编码','搞钱','生活']
+    copyright: ''
+    menuMore: 展示更多
+    writtenBy: Written by
+    readMore: 查看更多
+    readOtherPosts: 阅读其他文章
+    newerPosts: 最新
+    olderPosts: 最早
+    minuteReadingTime: 最少阅读时长
+    dateFormatSingle: '2006-01-02'
+    dateFormatList: '2006-01-02'
+    params:
+      logo:
+        logoText: 三聊
+        logoHomeLink: /
+    menu:
+      main:
+        - identifier: about
+          name: 关于
+          url: /about
+        - identifier: showcase
+          name: 展示案例
+          url: /showcase
+
