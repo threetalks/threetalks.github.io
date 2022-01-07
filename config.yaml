@@ -3,6 +3,7 @@ languageCode: en-US
 theme: hello-friend
 paginate: 5
 publishDir: docs
+copyright: "&copy; 2010 - {currentYear} Three Talks"
 params:
   contentTypeName: posts
   defaultTheme: dark
