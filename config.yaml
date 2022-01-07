@@ -5,9 +5,11 @@ paginate: 5
 publishDir: docs
 params:
   contentTypeName: posts
-  defaultTheme: dark
-  showMenuItems: 2
+  defaultTheme: light
+  showMenuItems: 4
   showReadingTime: True
+  toc: true
+  rssFullText: true
 languages:
   en:
     title: Three Talks
