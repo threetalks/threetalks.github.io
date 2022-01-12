@@ -1,6 +1,9 @@
+defaultContentLanguage: "zh-CN"
 baseurl: 'https://threetalks.com'
-languageCode: en
+languageCode: "zh-CN"
 theme: hello-friend
+enableemoji: true
+enablegitinfo: true
 paginate: 5
 publishDir: docs
 params:
@@ -11,30 +14,22 @@ params:
   toc: true
   rssFullText: true
 languages:
-  en:
+  zh-CN:
     title: Three Talks
     copyright: '&copy; 2021 - 2022  Three Talks. All rights reserved.'
     subtitle: 'Talk code, money, life'
-    keywords: ['code','money','life',"代码","钱","生活"]
-    menuMore: Show more
+    keywords: [ 'code','money','life',"代码","搞钱","生活" ]
+    menuMore: 展示更多
     writtenBy: Written by
-    readMore: Read more
-    readOtherPosts: Read other posts
-    newerPosts: Newer posts
-    olderPosts: Older posts
-    minuteReadingTime: min read
+    readMore: 阅读更多
+    readOtherPosts: 阅读其他文章
+    newerPosts: 最新文章
+    olderPosts: 历史文章
+    minuteReadingTime: 最短阅读时长
     dateFormatSingle: '2006-01-02'
     dateFormatList: '2006-01-02'
     params:
       logo:
         logoText: Three Talks
         logoHomeLink: /
-    menu:
-      main:
-        - identifier: about
-          name: About
-          url: /about
-        - identifier: showcase
-          name: Showcase
-          url: /showcase
 
