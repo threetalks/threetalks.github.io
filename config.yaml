@@ -1,6 +1,6 @@
-defaultContentLanguage: "zh-CN"
+defaultContentLanguage: "zh-cn"
 baseurl: 'https://threetalks.com'
-languageCode: "zh-CN"
+languageCode: "zh-cn"
 theme: hello-friend
 enableemoji: true
 enablegitinfo: true

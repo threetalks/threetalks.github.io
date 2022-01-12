@@ -2,10 +2,33 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://threetalks.com/categories/</loc>
+    <loc>https://threetalks.com/tags/douyin/</loc>
+    <lastmod>2022-01-07T07:51:58+00:00</lastmod>
+  </url><url>
+    <loc>https://threetalks.com/posts/</loc>
+    <lastmod>2022-01-07T07:51:58+00:00</lastmod>
   </url><url>
     <loc>https://threetalks.com/tags/</loc>
+    <lastmod>2022-01-07T07:51:58+00:00</lastmod>
   </url><url>
     <loc>https://threetalks.com/</loc>
+    <lastmod>2022-01-07T07:51:58+00:00</lastmod>
+  </url><url>
+    <loc>https://threetalks.com/tags/%E5%9B%9E%E5%85%B3/</loc>
+    <lastmod>2022-01-07T07:51:58+00:00</lastmod>
+  </url><url>
+    <loc>https://threetalks.com/posts/%E5%A6%82%E4%BD%95%E9%80%9A%E8%BF%87%E9%80%9A%E8%AE%AF%E5%BD%95%E5%A2%9E%E5%8A%A0%E6%8A%96%E9%9F%B3%E7%B2%89%E4%B8%9D/</loc>
+    <lastmod>2022-01-07T07:51:58+00:00</lastmod>
+  </url><url>
+    <loc>https://threetalks.com/tags/%E6%8A%96%E9%9F%B3/</loc>
+    <lastmod>2022-01-07T07:51:58+00:00</lastmod>
+  </url><url>
+    <loc>https://threetalks.com/tags/%E7%B2%89%E4%B8%9D/</loc>
+    <lastmod>2022-01-07T07:51:58+00:00</lastmod>
+  </url><url>
+    <loc>https://threetalks.com/tags/%E9%80%9A%E8%AE%AF%E5%BD%95/</loc>
+    <lastmod>2022-01-07T07:51:58+00:00</lastmod>
+  </url><url>
+    <loc>https://threetalks.com/categories/</loc>
   </url>
 </urlset>
